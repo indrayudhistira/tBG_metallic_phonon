@@ -1,1 +1,0 @@
-File R_1_11.txt is too large for GitHub. It will be made available upon request.
