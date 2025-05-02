@@ -8,7 +8,7 @@ Main file: sigmaephCN_exact_avg_iso.m
 
 2. code_eph_resistivity_CN_QE_highT_intraband
 
-Quasielastic and high temperature approximations
+Quasielastic and high temperature approximations for intraband
 
 Main file: sigmaephCN_highT_intraband_avg_iso.m
 
