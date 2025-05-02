@@ -1,4 +1,4 @@
-Code:
+## Code:
 
 1. code_eph_resistivity_CN
 
@@ -13,7 +13,7 @@ Quasielastic and high temperature approximations
 Main file: sigmaephCN_highT_intraband_avg_iso.m
 
 
-Units:
+## Units:
 
 Output: e^2/h
 
